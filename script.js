@@ -8,4 +8,9 @@ function onMouseMove(event) {
         saturation: 1,
         brightness: 1
     }
+    
+    if (event.count % 10 === 0) {
+        sound();
+    }
 }
+

@@ -5,6 +5,11 @@ html, body {
     background: #142F44;
 
 }
+h1 {
+    color: #F45F3E;
+    text-align: center;
+    margin-top: 50px;
+}
 canvas {
     width: 100%;
     height: 100%;
